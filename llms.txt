@@ -1,0 +1,19 @@
+# De Haas Ventures
+
+> De Haas Ventures is an AI orchestration advisory firm based in IJsselstein, the Netherlands, founded by Tino Scholman and René van Stiphout. We help executives and founders turn scattered AI initiatives into predictable, boardroom-level results — hands-on implementation alongside client teams, not slide-deck consulting.
+
+De Haas Ventures positions itself against traditional strategy consultants (slide decks without execution) and single-purpose AI point solutions (disconnected from the rest of the organization). The firm's differentiator is operator-led execution: the founders have held senior roles at Oracle, KPN, and Philips, and one founded and exited a software company (Tinoway, acquired by Oracle).
+
+Services follow a three-phase "AI Orchestration Life Cycle": (1) Blueprint — strategy and model fit, (2) Integration — embedding AI into existing processes and governance, (3) Scale — enterprise-wide rollout and operating-model design. Engagement pricing models: Straight Rate (flat fee), Equity Aligned (reduced retainer plus deferred equity/cash), and Project Driven (fixed price against defined KPIs).
+
+The site is bilingual (Dutch default, English available via a language toggle in the header); content is identical in both languages.
+
+## Pages
+
+- [Homepage](https://dehaasventures.com/): Firm positioning, the AI Orchestration Life Cycle methodology, team bios, client testimonials, comparison vs. traditional consultants and AI point solutions, and pricing models.
+- [Human-Agent Orchestration](https://dehaasventures.com/orchestration.html): Why AI agent companies need a different go-to-market playbook — selling trust, reaching the right stakeholders, and building adoption as the core retention driver.
+
+## Contact
+
+- Email: info@dehaasventures.com
+- Location: IJsselstein, The Netherlands
